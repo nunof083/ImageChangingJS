@@ -1,0 +1,36 @@
+.div-images {
+    margin: auto;
+    display: flex;
+    justify-content: center;
+}
+
+.div-images img {
+    width: 200px;
+    height: 300px;
+}
+
+.image-not-displayed {
+    display: none;
+}
+
+.div-selections {
+    padding-top: 2%;
+    display: flex;
+    justify-content: center;
+}
+
+.selected {
+    opacity: 60%;
+}
+
+.arrow-left {
+    position: absolute;
+    top: 10%;
+    left: 40%;
+}
+
+.arrow-right {
+    position: absolute;
+    top: 10%;
+    right: 40%;
+}
