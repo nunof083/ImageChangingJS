@@ -28,10 +28,12 @@
     position: absolute;
     top: 10%;
     left: 40%;
+    cursor: pointer;
 }
 
 .arrow-right {
     position: absolute;
     top: 10%;
     right: 40%;
+    cursor: pointer;
 }
